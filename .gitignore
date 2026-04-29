@@ -1,0 +1,10 @@
+# Trajectory files (too large for git — archive to Zenodo)
+output_2000/samples.xtc
+output_2000_C8S/samples.xtc
+output_2000/*.npz
+output_2000_C8S/*.npz
+
+# Caches
+.bioemu_embeds_cache/
+__pycache__/
+*.pyc
