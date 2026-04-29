@@ -11,6 +11,12 @@ IMBB-FORTH, Heraklion, Greece.
 
 ---
 
+## Repository
+
+https://github.com/MoschouLab/NtRGP1a-BioEmu
+
+---
+
 ## Biological context
 
 NtRGP1a is a plant glycine-rich RNA-binding protein with an N-terminal RRM
