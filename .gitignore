@@ -8,3 +8,4 @@ output_2000_C8S/*.npz
 .bioemu_embeds_cache/
 __pycache__/
 *.pyc
+output_2000_C8S/samplesC8S.xtc
