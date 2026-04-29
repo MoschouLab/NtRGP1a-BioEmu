@@ -1,5 +1,10 @@
 # NtRGP1a BioEmu Conformational Analysis (WT & C8S)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.11-blue.svg)]()
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19881948-blue.svg)](https://doi.org/10.5281/zenodo.19881948)
+[![BioEmu](https://img.shields.io/badge/BioEmu-v1.1-orange.svg)](https://github.com/microsoft/bioemu)
+
 Structural ensemble analysis of **NtRGP1a** (*Nicotiana tabacum* Glycine-rich
 RNA-Binding Protein 1a, UniProt [D6PZY5](https://www.uniprot.org/uniprot/D6PZY5),
 156 aa) and its C8S point mutant, generated with
